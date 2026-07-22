@@ -186,7 +186,7 @@ LinkedIn
 
 Email: khansaad191004@gmail.com
 
-Portfolio: Coming Soon
+Portfolio: [Go to my portfolio](https://portfolio-rose-xi-j1o06k0ryt.vercel.app/)
 
 ---
 
