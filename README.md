@@ -149,9 +149,8 @@ Machine Learning Project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1910Saad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1910Saad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1910Saad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1910Saad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
