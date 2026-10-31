@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saad Khan
+<h1 align="center">Hi 👋, I'm Saad Khan</h1>
 
 <h3 align="center">
   Full Stack Developer | Web Developer & Freelancer | AI/ML Enthusiast
